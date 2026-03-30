@@ -19,7 +19,7 @@
 
 ##  Demonstração:
 
-[🔗 Clique aqui para ver o projeto ao vivo]([https://seu-link-da-vercel.vercel.app](https://genesis-shop-xrdn.vercel.app/))
+[🔗 Clique aqui para ver o projeto ao vivo][https://seu-link-da-vercel.vercel.app](https://genesis-shop-xrdn.vercel.app/)
 
 ---
 
